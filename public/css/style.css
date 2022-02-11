@@ -1,0 +1,46 @@
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Source Sans Pro', sans-serif !important;
+  }
+  .header-text{
+    font-family: 'Ubuntu', sans-serif !important;
+  }
+  input,
+  button{
+    box-shadow: unset !important;
+  }
+  label{
+    font-size: .9em !important;
+  }
+  p{
+    font-size: .85em !important;
+  }
+  small{
+    font-size: .8em !important;
+  }
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+  }
+
+  .loader.remove{
+    opacity:0;
+    transition:all 0.2s ease-in-out;
+  }
+  * {
+    scrollbar-width: thin;
+  }
+  
+  *::-webkit-scrollbar {
+    width: 7px;
+    height: 5px;
+  }
+  
+  *::-webkit-scrollbar-track {
+    background: whitesmoke;
+  }
+  
+  *::-webkit-scrollbar-thumb {
+    background: rgb(211, 211, 211);
+    border-radius: 20px;
+  }
