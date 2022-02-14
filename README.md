@@ -1,4 +1,4 @@
-# location-tracker
+# location-tracker - prototype
 
 Updates :
 
